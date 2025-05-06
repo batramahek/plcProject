@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ae5f612-ef52-413f-8cdc-c2b4f63d62e6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PlcProject" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sXHoKJCfwvA7m5HODlgrPhaQQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build PlcProject.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LexerTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PlcProject [:plc.project.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnalyzerTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnalyzerTests.testReturnStmt.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EvaluatorTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GeneratorTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LexerTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ParserTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ParserTests.testPropertyExpr.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mahekbatra/Downloads/PlcProject/src/test/java/plc/project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/plc/project" />
+      <recent name="$PROJECT_DIR$/src/main/java/plc/project" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/plc/project" />
+      <recent name="$PROJECT_DIR$/src/main/java/plc/project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AnalyzerTests.testReturnStmt">
+    <configuration name="AnalyzerTests.testReturnStmt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlcProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="plc.project.analyzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="plc.project.analyzer" />
+      <option name="MAIN_CLASS_NAME" value="plc.project.analyzer.AnalyzerTests" />
+      <option name="METHOD_NAME" value="testReturnStmt(java.lang.String,plc.project.analyzer.AnalyzerTests$Input,plc.project.analyzer.Ir)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTests.testPropertyExpr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlcProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser" />
+      <option name="MAIN_CLASS_NAME" value="parser.ParserTests" />
+      <option name="METHOD_NAME" value="testPropertyExpr(java.lang.String,parser.ParserTests$Input,plc.project.parser.Ast$Expr$Property)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnalyzerTests.testReturnStmt" />
+        <item itemvalue="JUnit.ParserTests.testPropertyExpr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae5f612-ef52-413f-8cdc-c2b4f63d62e6" name="Changes" comment="" />
+      <created>1738595172888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738595172888</updated>
+      <workItem from="1738595174525" duration="4741000" />
+      <workItem from="1738613045710" duration="5510000" />
+      <workItem from="1738687430559" duration="20761000" />
+      <workItem from="1738774093890" duration="17461000" />
+      <workItem from="1738860970648" duration="795000" />
+      <workItem from="1738965771033" duration="9039000" />
+      <workItem from="1739828081964" duration="19428000" />
+      <workItem from="1739914618495" duration="20947000" />
+      <workItem from="1740158970526" duration="10496000" />
+      <workItem from="1740530329128" duration="7047000" />
+      <workItem from="1740604636911" duration="77000" />
+      <workItem from="1740615461814" duration="1241000" />
+      <workItem from="1741287723669" duration="40910000" />
+      <workItem from="1741621339847" duration="7372000" />
+      <workItem from="1741659079706" duration="4985000" />
+      <workItem from="1741726566400" duration="16169000" />
+      <workItem from="1742309146358" duration="3413000" />
+      <workItem from="1742825847619" duration="14328000" />
+      <workItem from="1743000195140" duration="23143000" />
+      <workItem from="1743110324223" duration="6305000" />
+      <workItem from="1743183453778" duration="33648000" />
+      <workItem from="1743898841839" duration="9249000" />
+      <workItem from="1743983549290" duration="712000" />
+      <workItem from="1744659960057" duration="7886000" />
+      <workItem from="1744740706483" duration="32517000" />
+      <workItem from="1744999159836" duration="16575000" />
+      <workItem from="1745369254564" duration="21784000" />
+      <workItem from="1745592079887" duration="7769000" />
+      <workItem from="1745758553826" duration="15982000" />
+      <workItem from="1746024481204" duration="7733000" />
+      <workItem from="1746142183883" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PlcProject$AnalyzerTests_testReturnStmt.ic" NAME="AnalyzerTests.testReturnStmt Coverage Results" MODIFIED="1743903793507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>plc.project.analyzer.*</FILTER>
+    </SUITE>
+  </component>
+</project>
